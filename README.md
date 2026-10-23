@@ -10,4 +10,4 @@ In this assignment, we used the convolutional neural network (CNN) ResNet-18 to 
 
 ## Laboratory 3
 
-In this assignment, we have implemented a Generative adversarial network (GAN) for natural image synthesis.
+In this assignment, we have implemented a generative adversarial network (GAN) for natural image synthesis.
